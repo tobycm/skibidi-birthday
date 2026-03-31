@@ -4,7 +4,7 @@ Happy birthday [Kai](https://github.com/KaiPereira)!! I wanted to put some FPGA 
 
 This is a USB 2.0 Hub, it doesn't need to have a case because the pcb itself is a birthday card, having a case would obviously hides the decorations and art on the pcb so it makes sense to not have a case designed.
 
-[\[Blueprint\]](https://blueprint.hackclub.com/projects/13659) | [\[KiCanvas\]](https://kicanvas.org/?repo=https://github.com/tobycm/skibidi-kicad-project/tree/main/pcb)
+[\[Blueprint\]](https://blueprint.hackclub.com/projects/13659) | [\[KiCanvas\]](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Ftobycm%2Fskibidi-birthday%2Ftree%2Fmain%2Fpcb)
 
 ## PCB
 
